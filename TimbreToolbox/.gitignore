@@ -1,0 +1,13 @@
+*.DS_Store
+*~
+tags
+doc/results/*
+*.mexglx
+*.mexmaci64
+*.mexw64
+*.mexw32
+*.mex
+*.mexmac
+*.mexa64
+*.mexmaci
+*WelcomeToZombocom_RLSLMS.mp4

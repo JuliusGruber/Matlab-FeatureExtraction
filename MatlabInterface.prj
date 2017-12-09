@@ -1,0 +1,306 @@
+<deployment-project plugin="plugin.ezdeploy" plugin-version="1.0">
+  <configuration build-checksum="2495039239" file="C:\Users\Julius Gruber\Dropbox\Master\matlab\MatlabInterface.prj" location="C:\Users\Julius Gruber\Dropbox\Master\matlab" name="MatlabInterface" preferred-package-location="C:\Users\Julius Gruber\Dropbox\Master\matlab\MatlabInterface\for_redistribution" preferred-package-type="package.type.exe" target="target.ezdeploy.library" target-name="Library Compiler">
+    <param.appname>MatlabInterface</param.appname>
+    <param.icon />
+    <param.icons />
+    <param.version>1.0</param.version>
+    <param.authnamewatermark />
+    <param.email />
+    <param.company />
+    <param.summary />
+    <param.description />
+    <param.screenshot />
+    <param.guid />
+    <param.installpath.string>\MatlabInterface\</param.installpath.string>
+    <param.installpath.combo>option.installpath.programfiles</param.installpath.combo>
+    <param.logo />
+    <param.install.notes />
+    <param.target.install.notes />
+    <param.intermediate>${PROJECT_ROOT}\MatlabInterface\for_testing</param.intermediate>
+    <param.files.only>${PROJECT_ROOT}\MatlabInterface\for_redistribution_files_only</param.files.only>
+    <param.output>${PROJECT_ROOT}\MatlabInterface\for_redistribution</param.output>
+    <param.enable.clean.build>false</param.enable.clean.build>
+    <param.user.defined.mcr.options />
+    <param.embed.ctf>true</param.embed.ctf>
+    <param.target.type>subtarget.java.package</param.target.type>
+    <param.support.packages />
+    <param.required.mcr.products>
+      <item>35000</item>
+      <item>35010</item>
+      <item>35001</item>
+    </param.required.mcr.products>
+    <param.namespace />
+    <param.classorg />
+    <param.web.mcr>true</param.web.mcr>
+    <param.package.mcr>false</param.package.mcr>
+    <param.no.mcr>false</param.no.mcr>
+    <param.web.mcr.name>MyAppInstaller_web</param.web.mcr.name>
+    <param.package.mcr.name>MyAppInstaller_mcr</param.package.mcr.name>
+    <param.no.mcr.name>MyAppInstaller_app</param.no.mcr.name>
+    <param.windows.command.prompt>true</param.windows.command.prompt>
+    <param.create.log>false</param.create.log>
+    <param.log.file />
+    <param.user.only.registration>false</param.user.only.registration>
+    <param.net.framework>option.net.framework.default</param.net.framework>
+    <param.assembly.type>false</param.assembly.type>
+    <param.encryption.key.file />
+    <param.net.enable.remoting>false</param.net.enable.remoting>
+    <param.net.tsa.enable>false</param.net.tsa.enable>
+    <param.net.tsa.assembly />
+    <param.net.tsa.interface />
+    <param.net.tsa.namespace />
+    <param.net.tsa.superclass>MatlabInterface</param.net.tsa.superclass>
+    <param.net.tsa.metadata />
+    <param.net.tsa.metadata.assembly>C:\Users\Julius Gruber\Documents\MATLAB</param.net.tsa.metadata.assembly>
+    <param.net.saved.interface />
+    <unset>
+      <param.icon />
+      <param.icons />
+      <param.version />
+      <param.authnamewatermark />
+      <param.email />
+      <param.company />
+      <param.summary />
+      <param.description />
+      <param.screenshot />
+      <param.guid />
+      <param.installpath.string />
+      <param.installpath.combo />
+      <param.logo />
+      <param.target.install.notes />
+      <param.intermediate />
+      <param.files.only />
+      <param.output />
+      <param.enable.clean.build />
+      <param.embed.ctf />
+      <param.support.packages />
+      <param.namespace />
+      <param.classorg />
+      <param.web.mcr />
+      <param.package.mcr />
+      <param.no.mcr />
+      <param.web.mcr.name />
+      <param.package.mcr.name />
+      <param.no.mcr.name />
+      <param.windows.command.prompt />
+      <param.create.log />
+      <param.log.file />
+      <param.user.only.registration />
+      <param.net.framework />
+      <param.assembly.type />
+      <param.encryption.key.file />
+      <param.net.enable.remoting />
+      <param.net.tsa.enable />
+      <param.net.tsa.assembly />
+      <param.net.tsa.interface />
+      <param.net.tsa.namespace />
+      <param.net.tsa.superclass />
+      <param.net.tsa.metadata />
+      <param.net.tsa.metadata.assembly />
+      <param.net.saved.interface />
+    </unset>
+    <fileset.exports>
+      <file>${PROJECT_ROOT}\functions\feAndDimensionReduction.m</file>
+      <file>${PROJECT_ROOT}\functions\feAndDimensionReduction1.m</file>
+      <file>${PROJECT_ROOT}\functions\feAndDimensionReduction2.m</file>
+      <file>${PROJECT_ROOT}\functions\feAndDimensionReduction3.m</file>
+      <file>${PROJECT_ROOT}\functions\getAllFileNames.m</file>
+    </fileset.exports>
+    <fileset.classes>
+      <entity.package name="">
+        <entity.class name="MatlabInterface">
+          <file>${PROJECT_ROOT}\functions\feAndDimensionReduction.m</file>
+          <file>${PROJECT_ROOT}\functions\feAndDimensionReduction1.m</file>
+          <file>${PROJECT_ROOT}\functions\feAndDimensionReduction2.m</file>
+          <file>${PROJECT_ROOT}\functions\feAndDimensionReduction3.m</file>
+          <file>${PROJECT_ROOT}\functions\getAllFileNames.m</file>
+        </entity.class>
+      </entity.package>
+    </fileset.classes>
+    <fileset.resources />
+    <fileset.depfun>
+      <file>${PROJECT_ROOT}\functions\calculateMirFeatures2.m</file>
+      <file>${PROJECT_ROOT}\functions\viewportTransformTSNEcordiantes.m</file>
+      <file>${PROJECT_ROOT}\MIRtoolbox1.6.1\AuditoryToolbox\ERBSpace.m</file>
+      <file>${PROJECT_ROOT}\MIRtoolbox1.6.1\AuditoryToolbox\MakeERBFilters.m</file>
+      <file>${PROJECT_ROOT}\MIRtoolbox1.6.1\MIRToolbox\@miraudio\miraudio.m</file>
+      <file>${PROJECT_ROOT}\MIRtoolbox1.6.1\MIRToolbox\@miraudio\mirsave.m</file>
+      <file>${PROJECT_ROOT}\MIRtoolbox1.6.1\MIRToolbox\@miraudio\plus.m</file>
+      <file>${PROJECT_ROOT}\MIRtoolbox1.6.1\MIRToolbox\@miraudio\set.m</file>
+      <file>${PROJECT_ROOT}\MIRtoolbox1.6.1\MIRToolbox\@mirautocor\display.m</file>
+      <file>${PROJECT_ROOT}\MIRtoolbox1.6.1\MIRToolbox\@mirautocor\get.m</file>
+      <file>${PROJECT_ROOT}\MIRtoolbox1.6.1\MIRToolbox\@mirautocor\mirautocor.m</file>
+      <file>${PROJECT_ROOT}\MIRtoolbox1.6.1\MIRToolbox\@mirautocor\mirplay.m</file>
+      <file>${PROJECT_ROOT}\MIRtoolbox1.6.1\MIRToolbox\@mirautocor\mtimes.m</file>
+      <file>${PROJECT_ROOT}\MIRtoolbox1.6.1\MIRToolbox\@mirautocor\set.m</file>
+      <file>${PROJECT_ROOT}\MIRtoolbox1.6.1\MIRToolbox\@mircepstrum\get.m</file>
+      <file>${PROJECT_ROOT}\MIRtoolbox1.6.1\MIRToolbox\@mircepstrum\mircepstrum.m</file>
+      <file>${PROJECT_ROOT}\MIRtoolbox1.6.1\MIRToolbox\@mircepstrum\mtimes.m</file>
+      <file>${PROJECT_ROOT}\MIRtoolbox1.6.1\MIRToolbox\@mircepstrum\set.m</file>
+      <file>${PROJECT_ROOT}\MIRtoolbox1.6.1\MIRToolbox\@mirdata\combine.m</file>
+      <file>${PROJECT_ROOT}\MIRtoolbox1.6.1\MIRToolbox\@mirdata\display.m</file>
+      <file>${PROJECT_ROOT}\MIRtoolbox1.6.1\MIRToolbox\@mirdata\exportation.m</file>
+      <file>${PROJECT_ROOT}\MIRtoolbox1.6.1\MIRToolbox\@mirdata\get.m</file>
+      <file>${PROJECT_ROOT}\MIRtoolbox1.6.1\MIRToolbox\@mirdata\gettmp.m</file>
+      <file>${PROJECT_ROOT}\MIRtoolbox1.6.1\MIRToolbox\@mirdata\intersect.m</file>
+      <file>${PROJECT_ROOT}\MIRtoolbox1.6.1\MIRToolbox\@mirdata\isframed.m</file>
+      <file>${PROJECT_ROOT}\MIRtoolbox1.6.1\MIRToolbox\@mirdata\log.m</file>
+      <file>${PROJECT_ROOT}\MIRtoolbox1.6.1\MIRToolbox\@mirdata\max.m</file>
+      <file>${PROJECT_ROOT}\MIRtoolbox1.6.1\MIRToolbox\@mirdata\mirdata.m</file>
+      <file>${PROJECT_ROOT}\MIRtoolbox1.6.1\MIRToolbox\@mirdata\mirdisplay.m</file>
+      <file>${PROJECT_ROOT}\MIRtoolbox1.6.1\MIRToolbox\@mirdata\mpower.m</file>
+      <file>${PROJECT_ROOT}\MIRtoolbox1.6.1\MIRToolbox\@mirdata\mtimes.m</file>
+      <file>${PROJECT_ROOT}\MIRtoolbox1.6.1\MIRToolbox\@mirdata\plus.m</file>
+      <file>${PROJECT_ROOT}\MIRtoolbox1.6.1\MIRToolbox\@mirdata\set.m</file>
+      <file>${PROJECT_ROOT}\MIRtoolbox1.6.1\MIRToolbox\@mirdata\settmp.m</file>
+      <file>${PROJECT_ROOT}\MIRtoolbox1.6.1\MIRToolbox\@mirdesign\display.m</file>
+      <file>${PROJECT_ROOT}\MIRtoolbox1.6.1\MIRToolbox\@mirdesign\evaleach.m</file>
+      <file>${PROJECT_ROOT}\MIRtoolbox1.6.1\MIRToolbox\@mirdesign\get.m</file>
+      <file>${PROJECT_ROOT}\MIRtoolbox1.6.1\MIRToolbox\@mirdesign\getsampling.m</file>
+      <file>${PROJECT_ROOT}\MIRtoolbox1.6.1\MIRToolbox\@mirdesign\isframed.m</file>
+      <file>${PROJECT_ROOT}\MIRtoolbox1.6.1\MIRToolbox\@mirdesign\max.m</file>
+      <file>${PROJECT_ROOT}\MIRtoolbox1.6.1\MIRToolbox\@mirdesign\mirdesign.m</file>
+      <file>${PROJECT_ROOT}\MIRtoolbox1.6.1\MIRToolbox\@mirdesign\mtimes.m</file>
+      <file>${PROJECT_ROOT}\MIRtoolbox1.6.1\MIRToolbox\@mirdesign\plus.m</file>
+      <file>${PROJECT_ROOT}\MIRtoolbox1.6.1\MIRToolbox\@mirdesign\set.m</file>
+      <file>${PROJECT_ROOT}\MIRtoolbox1.6.1\MIRToolbox\@mirdesign\setresampling.m</file>
+      <file>${PROJECT_ROOT}\MIRtoolbox1.6.1\MIRToolbox\@mirmatrix\display.m</file>
+      <file>${PROJECT_ROOT}\MIRtoolbox1.6.1\MIRToolbox\@mirmatrix\get.m</file>
+      <file>${PROJECT_ROOT}\MIRtoolbox1.6.1\MIRToolbox\@mirmatrix\mirmatrix.m</file>
+      <file>${PROJECT_ROOT}\MIRtoolbox1.6.1\MIRToolbox\@mirmfcc\get.m</file>
+      <file>${PROJECT_ROOT}\MIRtoolbox1.6.1\MIRToolbox\@mirmfcc\mirmfcc.m</file>
+      <file>${PROJECT_ROOT}\MIRtoolbox1.6.1\MIRToolbox\@mirmfcc\set.m</file>
+      <file>${PROJECT_ROOT}\MIRtoolbox1.6.1\MIRToolbox\@mirscalar\corrcoef.m</file>
+      <file>${PROJECT_ROOT}\MIRtoolbox1.6.1\MIRToolbox\@mirscalar\display.m</file>
+      <file>${PROJECT_ROOT}\MIRtoolbox1.6.1\MIRToolbox\@mirscalar\exportation.m</file>
+      <file>${PROJECT_ROOT}\MIRtoolbox1.6.1\MIRToolbox\@mirscalar\get.m</file>
+      <file>${PROJECT_ROOT}\MIRtoolbox1.6.1\MIRToolbox\@mirscalar\mirsave.m</file>
+      <file>${PROJECT_ROOT}\MIRtoolbox1.6.1\MIRToolbox\@mirscalar\mirscalar.m</file>
+      <file>${PROJECT_ROOT}\MIRtoolbox1.6.1\MIRToolbox\@mirscalar\set.m</file>
+      <file>${PROJECT_ROOT}\MIRtoolbox1.6.1\MIRToolbox\@mirsimatrix\display.m</file>
+      <file>${PROJECT_ROOT}\MIRtoolbox1.6.1\MIRToolbox\@mirsimatrix\get.m</file>
+      <file>${PROJECT_ROOT}\MIRtoolbox1.6.1\MIRToolbox\@mirsimatrix\mirplay.m</file>
+      <file>${PROJECT_ROOT}\MIRtoolbox1.6.1\MIRToolbox\@mirsimatrix\mirsimatrix.m</file>
+      <file>${PROJECT_ROOT}\MIRtoolbox1.6.1\MIRToolbox\@mirsimatrix\set.m</file>
+      <file>${PROJECT_ROOT}\MIRtoolbox1.6.1\MIRToolbox\@mirspectrum\get.m</file>
+      <file>${PROJECT_ROOT}\MIRtoolbox1.6.1\MIRToolbox\@mirspectrum\mirspectrum.m</file>
+      <file>${PROJECT_ROOT}\MIRtoolbox1.6.1\MIRToolbox\@mirspectrum\mtimes.m</file>
+      <file>${PROJECT_ROOT}\MIRtoolbox1.6.1\MIRToolbox\@mirspectrum\set.m</file>
+      <file>${PROJECT_ROOT}\MIRtoolbox1.6.1\MIRToolbox\@mirtemporal\display.m</file>
+      <file>${PROJECT_ROOT}\MIRtoolbox1.6.1\MIRToolbox\@mirtemporal\get.m</file>
+      <file>${PROJECT_ROOT}\MIRtoolbox1.6.1\MIRToolbox\@mirtemporal\mirtemporal.m</file>
+      <file>${PROJECT_ROOT}\MIRtoolbox1.6.1\MIRToolbox\@mirtemporal\plus.m</file>
+      <file>${PROJECT_ROOT}\MIRtoolbox1.6.1\MIRToolbox\@mirtemporal\set.m</file>
+      <file>${PROJECT_ROOT}\MIRtoolbox1.6.1\MIRToolbox\aiffread.m</file>
+      <file>${PROJECT_ROOT}\MIRtoolbox1.6.1\MIRToolbox\center.m</file>
+      <file>${PROJECT_ROOT}\MIRtoolbox1.6.1\MIRToolbox\displot.m</file>
+      <file>${PROJECT_ROOT}\MIRtoolbox1.6.1\MIRToolbox\haspeaks.m</file>
+      <file>${PROJECT_ROOT}\MIRtoolbox1.6.1\MIRToolbox\hwr.m</file>
+      <file>${PROJECT_ROOT}\MIRtoolbox1.6.1\MIRToolbox\isamir.m</file>
+      <file>${PROJECT_ROOT}\MIRtoolbox1.6.1\MIRToolbox\maxcell.m</file>
+      <file>${PROJECT_ROOT}\MIRtoolbox1.6.1\MIRToolbox\mirbrightness.m</file>
+      <file>${PROJECT_ROOT}\MIRtoolbox1.6.1\MIRToolbox\mircentroid.m</file>
+      <file>${PROJECT_ROOT}\MIRtoolbox1.6.1\MIRToolbox\mirchunklim.m</file>
+      <file>${PROJECT_ROOT}\MIRtoolbox1.6.1\MIRToolbox\mircompute.m</file>
+      <file>${PROJECT_ROOT}\MIRtoolbox1.6.1\MIRToolbox\mirentropy.m</file>
+      <file>${PROJECT_ROOT}\MIRtoolbox1.6.1\MIRToolbox\mirerror.m</file>
+      <file>${PROJECT_ROOT}\MIRtoolbox1.6.1\MIRToolbox\mireval.m</file>
+      <file>${PROJECT_ROOT}\MIRtoolbox1.6.1\MIRToolbox\mirevalaudiofile.m</file>
+      <file>${PROJECT_ROOT}\MIRtoolbox1.6.1\MIRToolbox\mirevalparallel.m</file>
+      <file>${PROJECT_ROOT}\MIRtoolbox1.6.1\MIRToolbox\mirexport.m</file>
+      <file>${PROJECT_ROOT}\MIRtoolbox1.6.1\MIRToolbox\mirflatness.m</file>
+      <file>${PROJECT_ROOT}\MIRtoolbox1.6.1\MIRToolbox\mirframe.m</file>
+      <file>${PROJECT_ROOT}\MIRtoolbox1.6.1\MIRToolbox\mirframenow.m</file>
+      <file>${PROJECT_ROOT}\MIRtoolbox1.6.1\MIRToolbox\mirfunction.m</file>
+      <file>${PROJECT_ROOT}\MIRtoolbox1.6.1\MIRToolbox\mirgetdata.m</file>
+      <file>${PROJECT_ROOT}\MIRtoolbox1.6.1\MIRToolbox\mirkurtosis.m</file>
+      <file>${PROJECT_ROOT}\MIRtoolbox1.6.1\MIRToolbox\mirlowenergy.m</file>
+      <file>${PROJECT_ROOT}\MIRtoolbox1.6.1\MIRToolbox\miroptions.m</file>
+      <file>${PROJECT_ROOT}\MIRtoolbox1.6.1\MIRToolbox\mirparallel.m</file>
+      <file>${PROJECT_ROOT}\MIRtoolbox1.6.1\MIRToolbox\mirpeaks.m</file>
+      <file>${PROJECT_ROOT}\MIRtoolbox1.6.1\MIRToolbox\mirplay.m</file>
+      <file>${PROJECT_ROOT}\MIRtoolbox1.6.1\MIRToolbox\mirread.m</file>
+      <file>${PROJECT_ROOT}\MIRtoolbox1.6.1\MIRToolbox\mirread2014.m</file>
+      <file>${PROJECT_ROOT}\MIRtoolbox1.6.1\MIRToolbox\mirregularity.m</file>
+      <file>${PROJECT_ROOT}\MIRtoolbox1.6.1\MIRToolbox\mirrms.m</file>
+      <file>${PROJECT_ROOT}\MIRtoolbox1.6.1\MIRToolbox\mirrolloff.m</file>
+      <file>${PROJECT_ROOT}\MIRtoolbox1.6.1\MIRToolbox\mirroughness.m</file>
+      <file>${PROJECT_ROOT}\MIRtoolbox1.6.1\MIRToolbox\mirsave.m</file>
+      <file>${PROJECT_ROOT}\MIRtoolbox1.6.1\MIRToolbox\mirskewness.m</file>
+      <file>${PROJECT_ROOT}\MIRtoolbox1.6.1\MIRToolbox\mirspread.m</file>
+      <file>${PROJECT_ROOT}\MIRtoolbox1.6.1\MIRToolbox\mirstat.m</file>
+      <file>${PROJECT_ROOT}\MIRtoolbox1.6.1\MIRToolbox\mirsum.m</file>
+      <file>${PROJECT_ROOT}\MIRtoolbox1.6.1\MIRToolbox\mirtemporary.m</file>
+      <file>${PROJECT_ROOT}\MIRtoolbox1.6.1\MIRToolbox\mirtimes.m</file>
+      <file>${PROJECT_ROOT}\MIRtoolbox1.6.1\MIRToolbox\mirtype.m</file>
+      <file>${PROJECT_ROOT}\MIRtoolbox1.6.1\MIRToolbox\mirverbose.m</file>
+      <file>${PROJECT_ROOT}\MIRtoolbox1.6.1\MIRToolbox\mirwaitbar.m</file>
+      <file>${PROJECT_ROOT}\MIRtoolbox1.6.1\MIRToolbox\mirzerocross.m</file>
+      <file>${PROJECT_ROOT}\MIRtoolbox1.6.1\MIRToolbox\mp3read.m</file>
+      <file>${PROJECT_ROOT}\MIRtoolbox1.6.1\MIRToolbox\mtimescell.m</file>
+      <file>${PROJECT_ROOT}\MIRtoolbox1.6.1\MIRToolbox\nthoutput.m</file>
+      <file>${PROJECT_ROOT}\MIRtoolbox1.6.1\MIRToolbox\num2col.m</file>
+      <file>${PROJECT_ROOT}\MIRtoolbox1.6.1\MIRToolbox\openbdf.m</file>
+      <file>${PROJECT_ROOT}\MIRtoolbox1.6.1\MIRToolbox\peaksegments.m</file>
+      <file>${PROJECT_ROOT}\MIRtoolbox1.6.1\MIRToolbox\pluscell.m</file>
+      <file>${PROJECT_ROOT}\MIRtoolbox1.6.1\MIRToolbox\purgedata.m</file>
+      <file>${PROJECT_ROOT}\MIRtoolbox1.6.1\MIRToolbox\readbdf.m</file>
+      <file>${PROJECT_ROOT}\MIRtoolbox1.6.1\MIRToolbox\surfplot.m</file>
+      <file>${PROJECT_ROOT}\MIRtoolbox1.6.1\MIRToolbox\uncell.m</file>
+      <file>${PROJECT_ROOT}\t-SNE\d2p.m</file>
+      <file>${PROJECT_ROOT}\t-SNE\tsne.m</file>
+      <file>${PROJECT_ROOT}\t-SNE\tsne_p.m</file>
+    </fileset.depfun>
+    <fileset.package />
+    <build-deliverables>
+      <file location="${PROJECT_ROOT}\MatlabInterface\for_testing" name="MatlabInterface.jar" optional="false">C:\Users\Julius Gruber\Dropbox\Master\matlab\MatlabInterface\for_testing\MatlabInterface.jar</file>
+      <file location="${PROJECT_ROOT}\MatlabInterface\for_testing" name="readme.txt" optional="true">C:\Users\Julius Gruber\Dropbox\Master\matlab\MatlabInterface\for_testing\readme.txt</file>
+      <file location="${PROJECT_ROOT}\MatlabInterface\for_testing" name="doc" optional="false">C:\Users\Julius Gruber\Dropbox\Master\matlab\MatlabInterface\for_testing\doc</file>
+    </build-deliverables>
+    <workflow />
+    <matlab>
+      <root>C:\Program Files\MATLAB\R2015b</root>
+      <toolboxes>
+        <toolbox name="matlabhdlcoder" />
+        <toolbox name="fixedpoint" />
+        <toolbox name="embeddedcoder" />
+        <toolbox name="matlabcoder" />
+      </toolboxes>
+      <toolbox>
+        <matlabhdlcoder>
+          <enabled>true</enabled>
+        </matlabhdlcoder>
+      </toolbox>
+      <toolbox>
+        <fixedpoint>
+          <enabled>true</enabled>
+        </fixedpoint>
+      </toolbox>
+      <toolbox>
+        <embeddedcoder>
+          <enabled>true</enabled>
+        </embeddedcoder>
+      </toolbox>
+      <toolbox>
+        <matlabcoder>
+          <enabled>true</enabled>
+        </matlabcoder>
+      </toolbox>
+    </matlab>
+    <platform>
+      <unix>false</unix>
+      <mac>false</mac>
+      <windows>true</windows>
+      <win2k>false</win2k>
+      <winxp>false</winxp>
+      <vista>false</vista>
+      <linux>false</linux>
+      <solaris>false</solaris>
+      <osver>6.2</osver>
+      <os32>false</os32>
+      <os64>true</os64>
+      <arch>win64</arch>
+      <matlab>true</matlab>
+    </platform>
+  </configuration>
+</deployment-project>

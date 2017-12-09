@@ -1,0 +1,307 @@
+mcc -W 'java:MatlabFE,Fe' -T link:lib -d 'C:\Users\Julius Gruber\Dropbox\Master\matlab\MatlabFE\for_testing' 'class{Fe:C:\Users\Julius Gruber\Dropbox\Master\matlab\functions\feAndDimensionReduction.m,C:\Users\Julius Gruber\Dropbox\Master\matlab\functions\feAndDimensionReduction1.m,C:\Users\Julius Gruber\Dropbox\Master\matlab\functions\feAndDimensionReduction2.m,C:\Users\Julius Gruber\Dropbox\Master\matlab\functions\feAndDimensionReduction3.m}' 
+[Warning: Name is nonexistent or not a directory: C:\Users\Julius
+Gruber\Dropbox\Master\matlab\SVN_timbretoolbox] 
+[Warning: Name is nonexistent or not a directory: C:\Users\Julius
+Gruber\Dropbox\Master\matlab\SVN_timbretoolbox\_tools] 
+[Warning: Name is nonexistent or not a directory: C:\Users\Julius
+Gruber\Dropbox\Master\matlab\SVN_timbretoolbox\_tools_sf] 
+[Warning: Name is nonexistent or not a directory: C:\Users\Julius
+Gruber\Dropbox\Master\matlab\SVN_timbretoolbox\classes] 
+[Warning: Name is nonexistent or not a directory: C:\Users\Julius
+Gruber\Dropbox\Master\matlab\Datenbank\musicradar\musicradar-electro-house-samples] 
+[Warning: Name is nonexistent or not a directory: C:\Users\Julius
+Gruber\Dropbox\Master\matlab\Datenbank\musicradar\musicradar-electro-house-samples\Bass_Loops] 
+[Warning: Name is nonexistent or not a directory: C:\Users\Julius
+Gruber\Dropbox\Master\matlab\Datenbank\musicradar\musicradar-electro-house-samples\Bass_Loops\125BPM] 
+[Warning: Name is nonexistent or not a directory: C:\Users\Julius
+Gruber\Dropbox\Master\matlab\Datenbank\musicradar\musicradar-electro-house-samples\Bass_Loops\130BPM] 
+[Warning: Name is nonexistent or not a directory: C:\Users\Julius
+Gruber\Dropbox\Master\matlab\Datenbank\musicradar\musicradar-electro-house-samples\Beats] 
+[Warning: Name is nonexistent or not a directory: C:\Users\Julius
+Gruber\Dropbox\Master\matlab\Datenbank\musicradar\musicradar-electro-house-samples\Beats\125BPM] 
+[Warning: Name is nonexistent or not a directory: C:\Users\Julius
+Gruber\Dropbox\Master\matlab\Datenbank\musicradar\musicradar-electro-house-samples\Beats\130BPM] 
+[Warning: Name is nonexistent or not a directory: C:\Users\Julius
+Gruber\Dropbox\Master\matlab\Datenbank\musicradar\musicradar-electro-house-samples\Drum_Hits] 
+[Warning: Name is nonexistent or not a directory: C:\Users\Julius
+Gruber\Dropbox\Master\matlab\Datenbank\musicradar\musicradar-electro-house-samples\Drum_Hits\Claps] 
+[Warning: Name is nonexistent or not a directory: C:\Users\Julius
+Gruber\Dropbox\Master\matlab\Datenbank\musicradar\musicradar-electro-house-samples\Drum_Hits\ClosedHats] 
+[Warning: Name is nonexistent or not a directory: C:\Users\Julius
+Gruber\Dropbox\Master\matlab\Datenbank\musicradar\musicradar-electro-house-samples\Drum_Hits\Cymbals] 
+[Warning: Name is nonexistent or not a directory: C:\Users\Julius
+Gruber\Dropbox\Master\matlab\Datenbank\musicradar\musicradar-electro-house-samples\Drum_Hits\Kicks] 
+[Warning: Name is nonexistent or not a directory: C:\Users\Julius
+Gruber\Dropbox\Master\matlab\Datenbank\musicradar\musicradar-electro-house-samples\Drum_Hits\Misc] 
+[Warning: Name is nonexistent or not a directory: C:\Users\Julius
+Gruber\Dropbox\Master\matlab\Datenbank\musicradar\musicradar-electro-house-samples\Drum_Hits\Open_Hats] 
+[Warning: Name is nonexistent or not a directory: C:\Users\Julius
+Gruber\Dropbox\Master\matlab\Datenbank\musicradar\musicradar-electro-house-samples\Drum_Hits\Perc] 
+[Warning: Name is nonexistent or not a directory: C:\Users\Julius
+Gruber\Dropbox\Master\matlab\Datenbank\musicradar\musicradar-electro-house-samples\Drum_Hits\Snares] 
+[Warning: Name is nonexistent or not a directory: C:\Users\Julius
+Gruber\Dropbox\Master\matlab\Datenbank\musicradar\musicradar-electro-house-samples\FX] 
+[Warning: Name is nonexistent or not a directory: C:\Users\Julius
+Gruber\Dropbox\Master\matlab\Datenbank\musicradar\musicradar-electro-house-samples\FX\FX] 
+[Warning: Name is nonexistent or not a directory: C:\Users\Julius
+Gruber\Dropbox\Master\matlab\Datenbank\musicradar\musicradar-electro-house-samples\Guitar_Chunks] 
+[Warning: Name is nonexistent or not a directory: C:\Users\Julius
+Gruber\Dropbox\Master\matlab\Datenbank\musicradar\musicradar-electro-house-samples\Guitar_Chunks\Atmos] 
+[Warning: Name is nonexistent or not a directory: C:\Users\Julius
+Gruber\Dropbox\Master\matlab\Datenbank\musicradar\musicradar-electro-house-samples\Guitar_Chunks\Fuzz_Power] 
+[Warning: Name is nonexistent or not a directory: C:\Users\Julius
+Gruber\Dropbox\Master\matlab\Datenbank\musicradar\musicradar-electro-house-samples\Guitar_Chunks\Gater(125BPM)] 
+[Warning: Name is nonexistent or not a directory: C:\Users\Julius
+Gruber\Dropbox\Master\matlab\Datenbank\musicradar\musicradar-electro-house-samples\Guitar_Chunks\Heavy_Process] 
+[Warning: Name is nonexistent or not a directory: C:\Users\Julius
+Gruber\Dropbox\Master\matlab\Datenbank\musicradar\musicradar-electro-house-samples\Guitar_Chunks\Paddy] 
+[Warning: Name is nonexistent or not a directory: C:\Users\Julius
+Gruber\Dropbox\Master\matlab\Datenbank\musicradar\musicradar-electro-house-samples\Guitar_Chunks\Pulse_Paddy(130BPM)] 
+[Warning: Name is nonexistent or not a directory: C:\Users\Julius
+Gruber\Dropbox\Master\matlab\Datenbank\musicradar\musicradar-electro-house-samples\Guitar_Chunks\Synth_Chords] 
+[Warning: Name is nonexistent or not a directory: C:\Users\Julius
+Gruber\Dropbox\Master\matlab\Datenbank\musicradar\musicradar-electro-house-samples\Guitar_Chunks\Synth_Notes] 
+[Warning: Name is nonexistent or not a directory: C:\Users\Julius
+Gruber\Dropbox\Master\matlab\Datenbank\musicradar\musicradar-electro-house-samples\Guitar_Loops] 
+[Warning: Name is nonexistent or not a directory: C:\Users\Julius
+Gruber\Dropbox\Master\matlab\Datenbank\musicradar\musicradar-electro-house-samples\Guitar_Loops\125BPM] 
+[Warning: Name is nonexistent or not a directory: C:\Users\Julius
+Gruber\Dropbox\Master\matlab\Datenbank\musicradar\musicradar-electro-house-samples\Guitar_Loops\130BPM] 
+[Warning: Name is nonexistent or not a directory: C:\Users\Julius
+Gruber\Dropbox\Master\matlab\Datenbank\musicradar\musicradar-electro-house-samples\Processed_Beats] 
+[Warning: Name is nonexistent or not a directory: C:\Users\Julius
+Gruber\Dropbox\Master\matlab\Datenbank\musicradar\musicradar-electro-house-samples\Processed_Beats\125BPM] 
+[Warning: Name is nonexistent or not a directory: C:\Users\Julius
+Gruber\Dropbox\Master\matlab\Datenbank\musicradar\musicradar-electro-house-samples\Processed_Beats\130BPM] 
+[Warning: Name is nonexistent or not a directory: C:\Users\Julius
+Gruber\Dropbox\Master\matlab\Datenbank\musicradar\musicradar-electro-house-samples\Synth_Riffs] 
+[Warning: Name is nonexistent or not a directory: C:\Users\Julius
+Gruber\Dropbox\Master\matlab\Datenbank\musicradar\musicradar-electro-house-samples\Synth_Riffs\125BPM] 
+[Warning: Name is nonexistent or not a directory: C:\Users\Julius
+Gruber\Dropbox\Master\matlab\Datenbank\musicradar\musicradar-electro-house-samples\Synth_Riffs\130BPM] 
+[Warning: Name is nonexistent or not a directory: C:\Users\Julius
+Gruber\Dropbox\Master\matlab\Datenbank\musicradar\musicradar-filthy-hippy-samples] 
+[Warning: Name is nonexistent or not a directory: C:\Users\Julius
+Gruber\Dropbox\Master\matlab\Datenbank\musicradar\musicradar-filthy-hippy-samples\Kit
+1 110bpm] 
+[Warning: Name is nonexistent or not a directory: C:\Users\Julius
+Gruber\Dropbox\Master\matlab\Datenbank\musicradar\musicradar-filthy-hippy-samples\Kit
+1 110bpm\Bass] 
+[Warning: Name is nonexistent or not a directory: C:\Users\Julius
+Gruber\Dropbox\Master\matlab\Datenbank\musicradar\musicradar-filthy-hippy-samples\Kit
+1 110bpm\Beats] 
+[Warning: Name is nonexistent or not a directory: C:\Users\Julius
+Gruber\Dropbox\Master\matlab\Datenbank\musicradar\musicradar-filthy-hippy-samples\Kit
+1 110bpm\Guitar] 
+[Warning: Name is nonexistent or not a directory: C:\Users\Julius
+Gruber\Dropbox\Master\matlab\Datenbank\musicradar\musicradar-filthy-hippy-samples\Kit
+1 110bpm\Mellotron] 
+[Warning: Name is nonexistent or not a directory: C:\Users\Julius
+Gruber\Dropbox\Master\matlab\Datenbank\musicradar\musicradar-filthy-hippy-samples\Kit
+2 135bpm] 
+[Warning: Name is nonexistent or not a directory: C:\Users\Julius
+Gruber\Dropbox\Master\matlab\Datenbank\musicradar\musicradar-filthy-hippy-samples\Kit
+2 135bpm\Bass] 
+[Warning: Name is nonexistent or not a directory: C:\Users\Julius
+Gruber\Dropbox\Master\matlab\Datenbank\musicradar\musicradar-filthy-hippy-samples\Kit
+2 135bpm\Beats] 
+[Warning: Name is nonexistent or not a directory: C:\Users\Julius
+Gruber\Dropbox\Master\matlab\Datenbank\musicradar\musicradar-filthy-hippy-samples\Kit
+2 135bpm\Flanged Rhythm Guitar] 
+[Warning: Name is nonexistent or not a directory: C:\Users\Julius
+Gruber\Dropbox\Master\matlab\Datenbank\musicradar\musicradar-filthy-hippy-samples\Kit
+2 135bpm\Lead Guitar] 
+[Warning: Name is nonexistent or not a directory: C:\Users\Julius
+Gruber\Dropbox\Master\matlab\Datenbank\musicradar\musicradar-filthy-hippy-samples\Kit
+2 135bpm\Organ] 
+[Warning: Name is nonexistent or not a directory: C:\Users\Julius
+Gruber\Dropbox\Master\matlab\Datenbank\musicradar\musicradar-filthy-hippy-samples\Kit
+2 135bpm\Percussion] 
+[Warning: Name is nonexistent or not a directory: C:\Users\Julius
+Gruber\Dropbox\Master\matlab\Datenbank\musicradar\musicradar-filthy-hippy-samples\Kit
+2 135bpm\Rhythm Guitar] 
+[Warning: Name is nonexistent or not a directory: C:\Users\Julius
+Gruber\Dropbox\Master\matlab\Datenbank\musicradar\musicradar-filthy-hippy-samples\Kit
+3 120bpm] 
+[Warning: Name is nonexistent or not a directory: C:\Users\Julius
+Gruber\Dropbox\Master\matlab\Datenbank\musicradar\musicradar-filthy-hippy-samples\Kit
+3 120bpm\Bass] 
+[Warning: Name is nonexistent or not a directory: C:\Users\Julius
+Gruber\Dropbox\Master\matlab\Datenbank\musicradar\musicradar-filthy-hippy-samples\Kit
+3 120bpm\Beats] 
+[Warning: Name is nonexistent or not a directory: C:\Users\Julius
+Gruber\Dropbox\Master\matlab\Datenbank\musicradar\musicradar-filthy-hippy-samples\Kit
+3 120bpm\Lead Guitar] 
+[Warning: Name is nonexistent or not a directory: C:\Users\Julius
+Gruber\Dropbox\Master\matlab\Datenbank\musicradar\musicradar-filthy-hippy-samples\Kit
+3 120bpm\Percussion] 
+[Warning: Name is nonexistent or not a directory: C:\Users\Julius
+Gruber\Dropbox\Master\matlab\Datenbank\musicradar\musicradar-filthy-hippy-samples\Kit
+3 120bpm\Piano] 
+[Warning: Name is nonexistent or not a directory: C:\Users\Julius
+Gruber\Dropbox\Master\matlab\Datenbank\musicradar\musicradar-filthy-hippy-samples\Kit
+3 120bpm\Rhythm Guitar] 
+[Warning: Name is nonexistent or not a directory: C:\Users\Julius
+Gruber\Dropbox\Master\matlab\Datenbank\musicradar\musicradar-filthy-hippy-samples\Kit
+4 90bpm] 
+[Warning: Name is nonexistent or not a directory: C:\Users\Julius
+Gruber\Dropbox\Master\matlab\Datenbank\musicradar\musicradar-filthy-hippy-samples\Kit
+4 90bpm\Drone Guitar] 
+[Warning: Name is nonexistent or not a directory: C:\Users\Julius
+Gruber\Dropbox\Master\matlab\Datenbank\musicradar\musicradar-filthy-hippy-samples\Kit
+4 90bpm\Drums] 
+[Warning: Name is nonexistent or not a directory: C:\Users\Julius
+Gruber\Dropbox\Master\matlab\Datenbank\musicradar\musicradar-filthy-hippy-samples\Kit
+4 90bpm\Percussion] 
+[Warning: Name is nonexistent or not a directory: C:\Users\Julius
+Gruber\Dropbox\Master\matlab\Datenbank\musicradar\musicradar-filthy-hippy-samples\Kit
+4 90bpm\Rhodes Piano] 
+[Warning: Name is nonexistent or not a directory: C:\Users\Julius
+Gruber\Dropbox\Master\matlab\Datenbank\musicradar\musicradar-filthy-hippy-samples\Kit
+4 90bpm\Vibrato Bass] 
+[Warning: Name is nonexistent or not a directory: C:\Users\Julius
+Gruber\Dropbox\Master\matlab\Datenbank\musicradar\musicradar-filthy-hippy-samples\Kit
+4 90bpm\Vibrato Guitar] 
+[Warning: Name is nonexistent or not a directory: C:\Users\Julius
+Gruber\Dropbox\Master\matlab\Datenbank\musicradar\musicradar-filthy-hippy-samples\Kit
+5 105bpm] 
+[Warning: Name is nonexistent or not a directory: C:\Users\Julius
+Gruber\Dropbox\Master\matlab\Datenbank\musicradar\musicradar-filthy-hippy-samples\Kit
+5 105bpm\Bass] 
+[Warning: Name is nonexistent or not a directory: C:\Users\Julius
+Gruber\Dropbox\Master\matlab\Datenbank\musicradar\musicradar-filthy-hippy-samples\Kit
+5 105bpm\Clavinet] 
+[Warning: Name is nonexistent or not a directory: C:\Users\Julius
+Gruber\Dropbox\Master\matlab\Datenbank\musicradar\musicradar-filthy-hippy-samples\Kit
+5 105bpm\Drums] 
+[Warning: Name is nonexistent or not a directory: C:\Users\Julius
+Gruber\Dropbox\Master\matlab\Datenbank\musicradar\musicradar-filthy-hippy-samples\Kit
+5 105bpm\Percussion] 
+[Warning: Name is nonexistent or not a directory: C:\Users\Julius
+Gruber\Dropbox\Master\matlab\Datenbank\musicradar\musicradar-filthy-hippy-samples\Kit
+5 105bpm\Rhythm Guitar] 
+[Warning: Name is nonexistent or not a directory: C:\Users\Julius
+Gruber\Dropbox\Master\matlab\Datenbank\musicradar\musicradar-filthy-hippy-samples\Kit
+5 105bpm\Wah Lead Guitar] 
+[Warning: Name is nonexistent or not a directory: C:\Users\Julius
+Gruber\Dropbox\Master\matlab\Datenbank\musicradar\musicradar-hi-nrg-samples\Kit1
+132bpm] 
+[Warning: Name is nonexistent or not a directory: C:\Users\Julius
+Gruber\Dropbox\Master\matlab\Datenbank\musicradar\musicradar-hi-nrg-samples\Kit1
+132bpm\Arp A] 
+[Warning: Name is nonexistent or not a directory: C:\Users\Julius
+Gruber\Dropbox\Master\matlab\Datenbank\musicradar\musicradar-hi-nrg-samples\Kit1
+132bpm\Arp B] 
+[Warning: Name is nonexistent or not a directory: C:\Users\Julius
+Gruber\Dropbox\Master\matlab\Datenbank\musicradar\musicradar-hi-nrg-samples\Kit1
+132bpm\Bass] 
+[Warning: Name is nonexistent or not a directory: C:\Users\Julius
+Gruber\Dropbox\Master\matlab\Datenbank\musicradar\musicradar-hi-nrg-samples\Kit1
+132bpm\Drum Hits] 
+[Warning: Name is nonexistent or not a directory: C:\Users\Julius
+Gruber\Dropbox\Master\matlab\Datenbank\musicradar\musicradar-hi-nrg-samples\Kit1
+132bpm\Drums] 
+[Warning: Name is nonexistent or not a directory: C:\Users\Julius
+Gruber\Dropbox\Master\matlab\Datenbank\musicradar\musicradar-hi-nrg-samples\Kit2
+130bpm] 
+[Warning: Name is nonexistent or not a directory: C:\Users\Julius
+Gruber\Dropbox\Master\matlab\Datenbank\musicradar\musicradar-hi-nrg-samples\Kit2
+130bpm\Arpeggiator] 
+[Warning: Name is nonexistent or not a directory: C:\Users\Julius
+Gruber\Dropbox\Master\matlab\Datenbank\musicradar\musicradar-hi-nrg-samples\Kit2
+130bpm\Bass] 
+[Warning: Name is nonexistent or not a directory: C:\Users\Julius
+Gruber\Dropbox\Master\matlab\Datenbank\musicradar\musicradar-hi-nrg-samples\Kit2
+130bpm\Drum Hits] 
+[Warning: Name is nonexistent or not a directory: C:\Users\Julius
+Gruber\Dropbox\Master\matlab\Datenbank\musicradar\musicradar-hi-nrg-samples\Kit2
+130bpm\Drums] 
+[Warning: Name is nonexistent or not a directory: C:\Users\Julius
+Gruber\Dropbox\Master\matlab\Datenbank\musicradar\musicradar-hi-nrg-samples\Kit2
+130bpm\Hard Pad] 
+[Warning: Name is nonexistent or not a directory: C:\Users\Julius
+Gruber\Dropbox\Master\matlab\Datenbank\musicradar\musicradar-hi-nrg-samples\Kit2
+130bpm\Lead Synth] 
+[Warning: Name is nonexistent or not a directory: C:\Users\Julius
+Gruber\Dropbox\Master\matlab\Datenbank\musicradar\musicradar-hi-nrg-samples\Kit3
+125bpm] 
+[Warning: Name is nonexistent or not a directory: C:\Users\Julius
+Gruber\Dropbox\Master\matlab\Datenbank\musicradar\musicradar-hi-nrg-samples\Kit3
+125bpm\Bass] 
+[Warning: Name is nonexistent or not a directory: C:\Users\Julius
+Gruber\Dropbox\Master\matlab\Datenbank\musicradar\musicradar-hi-nrg-samples\Kit3
+125bpm\Drum Hits] 
+[Warning: Name is nonexistent or not a directory: C:\Users\Julius
+Gruber\Dropbox\Master\matlab\Datenbank\musicradar\musicradar-hi-nrg-samples\Kit3
+125bpm\Drums] 
+[Warning: Name is nonexistent or not a directory: C:\Users\Julius
+Gruber\Dropbox\Master\matlab\Datenbank\musicradar\musicradar-hi-nrg-samples\Kit3
+125bpm\SawPad] 
+[Warning: Name is nonexistent or not a directory: C:\Users\Julius
+Gruber\Dropbox\Master\matlab\Datenbank\musicradar\musicradar-hi-nrg-samples\Kit3
+125bpm\TinySyn] 
+[Warning: Name is nonexistent or not a directory: C:\Users\Julius
+Gruber\Dropbox\Master\matlab\Datenbank\musicradar\musicradar-hi-nrg-samples\Kit3
+125bpm\ZeLead] 
+[Warning: Name is nonexistent or not a directory: C:\Users\Julius
+Gruber\Dropbox\Master\matlab\Datenbank\musicradar\musicradar-hi-nrg-samples\Kit4
+130bpm] 
+[Warning: Name is nonexistent or not a directory: C:\Users\Julius
+Gruber\Dropbox\Master\matlab\Datenbank\musicradar\musicradar-hi-nrg-samples\Kit4
+130bpm\Arpeggiator] 
+[Warning: Name is nonexistent or not a directory: C:\Users\Julius
+Gruber\Dropbox\Master\matlab\Datenbank\musicradar\musicradar-hi-nrg-samples\Kit4
+130bpm\Drum Hits] 
+[Warning: Name is nonexistent or not a directory: C:\Users\Julius
+Gruber\Dropbox\Master\matlab\Datenbank\musicradar\musicradar-hi-nrg-samples\Kit4
+130bpm\Drums] 
+[Warning: Name is nonexistent or not a directory: C:\Users\Julius
+Gruber\Dropbox\Master\matlab\Datenbank\musicradar\musicradar-hi-nrg-samples\Kit4
+130bpm\Mini Lead] 
+[Warning: Name is nonexistent or not a directory: C:\Users\Julius
+Gruber\Dropbox\Master\matlab\Datenbank\musicradar\musicradar-hi-nrg-samples\Kit4
+130bpm\Ob Bass] 
+[Warning: Name is nonexistent or not a directory: C:\Users\Julius
+Gruber\Dropbox\Master\matlab\Datenbank\musicradar\musicradar-hi-nrg-samples\Kit4
+130bpm\SH Bass] 
+[Warning: Name is nonexistent or not a directory: C:\Users\Julius
+Gruber\Dropbox\Master\matlab\Datenbank\musicradar\musicradar-hi-nrg-samples\Kit4
+130bpm\String Machine] 
+[Warning: Adding path "C:\Users\Julius Gruber\Dropbox\Master\matlab\functions"
+to Compiler path instance.] 
+[] 
+[Warning: Adding path "C:\Users\Julius Gruber\Dropbox\Master\matlab\functions"
+to Compiler path instance.] 
+[] 
+[Warning: Adding path "C:\Users\Julius Gruber\Dropbox\Master\matlab\functions"
+to Compiler path instance.] 
+[] 
+[Warning: Adding path "C:\Users\Julius Gruber\Dropbox\Master\matlab\functions"
+to Compiler path instance.] 
+[] 
+Creating destination directory: "C:\Users\Julius Gruber\Dropbox\Master\matlab\MatlabFE\for_testing\doc\html\"
+Loading source files for package MatlabFE...
+Constructing Javadoc information...
+Standard Doclet version 1.7.0_60
+Building tree for all the packages and classes...
+Generating C:\Users\Julius Gruber\Dropbox\Master\matlab\MatlabFE\for_testing\doc\html\MatlabFE\Fe.html...
+Generating C:\Users\Julius Gruber\Dropbox\Master\matlab\MatlabFE\for_testing\doc\html\MatlabFE\FeRemote.html...
+Generating C:\Users\Julius Gruber\Dropbox\Master\matlab\MatlabFE\for_testing\doc\html\MatlabFE\MatlabFEMCRFactory.html...
+Generating C:\Users\Julius Gruber\Dropbox\Master\matlab\MatlabFE\for_testing\doc\html\MatlabFE\package-frame.html...
+Generating C:\Users\Julius Gruber\Dropbox\Master\matlab\MatlabFE\for_testing\doc\html\MatlabFE\package-summary.html...
+Generating C:\Users\Julius Gruber\Dropbox\Master\matlab\MatlabFE\for_testing\doc\html\MatlabFE\package-tree.html...
+Generating C:\Users\Julius Gruber\Dropbox\Master\matlab\MatlabFE\for_testing\doc\html\constant-values.html...
+Building index for all the packages and classes...
+Generating C:\Users\Julius Gruber\Dropbox\Master\matlab\MatlabFE\for_testing\doc\html\overview-tree.html...
+Generating C:\Users\Julius Gruber\Dropbox\Master\matlab\MatlabFE\for_testing\doc\html\index-all.html...
+Generating C:\Users\Julius Gruber\Dropbox\Master\matlab\MatlabFE\for_testing\doc\html\deprecated-list.html...
+Building index for all classes...
+Generating C:\Users\Julius Gruber\Dropbox\Master\matlab\MatlabFE\for_testing\doc\html\allclasses-frame.html...
+Generating C:\Users\Julius Gruber\Dropbox\Master\matlab\MatlabFE\for_testing\doc\html\allclasses-noframe.html...
+Generating C:\Users\Julius Gruber\Dropbox\Master\matlab\MatlabFE\for_testing\doc\html\index.html...
+Generating C:\Users\Julius Gruber\Dropbox\Master\matlab\MatlabFE\for_testing\doc\html\help-doc.html...
+Packaging...
+Creating the bundle...
+Web based installer created at C:\Users\Julius Gruber\Dropbox\Master\matlab\MatlabFE\for_redistribution\MyAppInstaller_web.exe.
+Packaging complete.
+Elapsed packaging time was: 1 minutes and 59 seconds.
